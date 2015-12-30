@@ -105,6 +105,7 @@ calendarDemoApp.controller('CalendarCtrl',
       calendar:{
         height: 450,
         editable: true,
+		lang:'es',
         header:{
           left: 'title',
           center: '',
